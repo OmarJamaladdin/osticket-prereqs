@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enabling IIS
+- Enabling IIS in Windows with CGI
 - Item 2
 - Item 3
 - Item 4
