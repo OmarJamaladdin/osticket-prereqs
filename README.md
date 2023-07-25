@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/OmarJamaladdin/osticket-prereqs/assets/140512686/13caa205-61d3-49e7-bdd3-3537b3e80620)
 
 
-IIS is a webserver that is required for OsTicket to run on. 
+IIS is a webserver that is required for OsTicket to run on. To enable IIS, I had to visit the programs section of my Windows 10 VM and then click on (Turn Windows programs on or off) which allowed me to adjust the settings of the Internet Information Services.
 
 
 <p>
