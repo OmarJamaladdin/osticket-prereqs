@@ -36,19 +36,14 @@ IIS is a webserver that is required for OsTicket to run on. To enable IIS, I had
 
 Here I had to create a directory for PHP on the local hard drive (c drive) and after downloading the PHP files I extracted the zip files into the new PHP folder. I also downloaded/installed C++ Redistr to work with PHP pertaining to URL rewrites when using OsTicket.
 
+![image](https://github.com/OmarJamaladdin/osticket-prereqs/assets/140512686/73ffb33c-d9b3-40b4-9398-0befae9bb197)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Here I installed MySQL server which installs a datatbase on to the computer to store things like the actual tickets in OsTicket as well as users information.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![image](https://github.com/OmarJamaladdin/osticket-prereqs/assets/140512686/1e29c9eb-d6bc-4610-94d7-0a7561cab42e)
+
+Finally I installed OsTicket and HeidiSQL. First I had to run IIS as an admin in order to register PHP from within IIS using the PHP folder I created earlier in the project. After installing OsTicket, I revisited IIS > php manager to enable more PHP extensions required by OsTicket. Lastly, I had to set up my Help Desk and Admin user settings for the OsTicket system as well as install HeidiSQL. HeidiSQL allows me to connect to the SQL server I created earlier in the project and set up a database for OsTicket to use.
+
+![image](https://github.com/OmarJamaladdin/osticket-prereqs/assets/140512686/a833678e-d33d-4a8c-9a9e-8fb68f70e01b)
+
 <br />
