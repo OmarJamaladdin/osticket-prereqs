@@ -21,9 +21,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enabling IIS in Windows with CGI and common HTTP features.
 - Install PHP Manager for IIS
+- Install URL Rewrite
 - Install MySQL Server
 - Item 4
-- Item 5
+
 
 <h2>Installation Steps</h2>
 
@@ -31,6 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 IIS is a webserver that is required for OsTicket to run on. To enable IIS, I had to visit the programs section of my Windows 10 VM and then click on (Turn Windows programs on or off) which allowed me to adjust the settings of the Internet Information Services.
+
+![image](https://github.com/OmarJamaladdin/osticket-prereqs/assets/140512686/ef2bff0b-bccd-4b78-ab36-0f1ff224adad)
+
+Here I had to create a directory for PHP on the local hard drive (c drive) and after downloading the PHP files I extracted the zip files into the new PHP folder. I also downloaded/installed C++ Redistr to work with PHP.
 
 
 <p>
