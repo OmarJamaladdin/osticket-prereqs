@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enabling IIS in Windows with CGI
+- Enabling IIS in Windows with CGI and common HTTP features.
 - Item 2
 - Item 3
 - Item 4
@@ -29,13 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/OmarJamaladdin/osticket-prereqs/assets/140512686/13caa205-61d3-49e7-bdd3-3537b3e80620)
 
-<p>
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+IIS is a webserver that is required for OsTicket to run on. 
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
